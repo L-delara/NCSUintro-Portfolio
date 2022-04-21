@@ -1,0 +1,10 @@
+h1,
+h2,
+h3 {
+  color: #125c3d;
+}
+
+img {
+  max-width: 200px;
+  max-height: 400px;
+}
