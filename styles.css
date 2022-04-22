@@ -4,7 +4,23 @@ h3 {
   color: #125c3d;
 }
 
+h1 {
+  margin-bottom: 0px;
+}
+h2 {
+  margin-top: 0px;
+}
 img {
-  max-width: 200px;
-  max-height: 400px;
+  max-width: 300px;
+  max-height: 450px;
+}
+
+body {
+  text-align: center;
+  font-family: arial Arial, Helvetica, sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
 }
